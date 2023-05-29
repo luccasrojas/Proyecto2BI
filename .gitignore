@@ -1,1 +1,3 @@
-ETL/Basic_ETL_using_pandas/Test-learning/etl_pandas/data/
+*.csv
+code/__pycache__/
+metadata/__pycache__/
